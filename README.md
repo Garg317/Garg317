@@ -1,9 +1,18 @@
-<!-- Typing Intro -->
+<!-- 🌟 Animated Rainbow Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+supremeinferno!;Welcome+to+my+GitHub+Profile💻;Coding+%7C+Learning+%7C+Building+🚀" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hey,%20I'm%20supremeinferno!%20🌟&width=800&height=150" alt="Rainbow Banner"/>
 </p>
 
-<!-- GIF Section -->
+---
+
+<!-- ⌨️ Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile💻;Coding+%7C+Learning+%7C+Building+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- 🎬 GIF Section -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coder at work" style="border-radius:15px; margin-right:25px;" />
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="300" alt="Laptop animation" style="border-radius:15px;" />
